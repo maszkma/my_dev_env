@@ -1,2 +1,3 @@
-# my_dev_env
-My development environment
+# my_environment
+
+My development environment's storeroom repository.

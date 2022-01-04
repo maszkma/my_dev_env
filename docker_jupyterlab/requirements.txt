@@ -1,0 +1,34 @@
+numpy
+pandas
+scipy
+# scikit-learn
+# llvmlite
+pycaret
+matplotlib
+japanize_matplotlib
+mlxtend
+seaborn
+plotly
+requests
+beautifulsoup4
+Pillow
+opencv-python
+black
+nodejs
+jupyterlab
+jupyter-kite>=2.0.2
+jupyterlab_code_formatter
+jupyterlab-vim
+yapf
+jupyterlab-git
+lckr-jupyterlab-variableinspector
+jupyterlab_widgets
+ipywidgets
+import-ipynb
+pydeps
+graphviz
+pandas_profiling
+shap
+umap
+xgboost
+lightgbm
